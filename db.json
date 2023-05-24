@@ -1,11 +1,68 @@
 {
-  "posts": [
+ TableJsonData : [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+    {
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+    {
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+    {
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+    {
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+    {
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+    {
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+    {
+        "Date": "22/10/2022",
+        "Amount": "$34",
+        "Type": "Cash in",
+        "Category": "Petty cash in",
+        "Notes": "Tips from Customer",
+        "Name": "Ria",
+    },
+]
 }
